@@ -8,3 +8,5 @@ controls:
 * Right Arrow - move cursor right
 * Space Key - select checker or put down the selected checker
 * F2 - go back to previous move
+
+NOTE: This code is rather primitive, no reasonalble OOP or elegant logic. This repo is just for sentimental reasons.
