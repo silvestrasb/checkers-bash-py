@@ -1,6 +1,10 @@
 # checkers-bash-py
-<i>Created this app a long time age, one of my first games. I still like it since it runs from bash command line. Just type: python3 checkers.py
-and the program will run.</i>
+<i> Primitive checkers for bash shell, made using curses module.</i>
+
+
+<b> Instructions:
+  * In the terminal type: python3 checkers.py
+</b>
 
 <b>Controls:</b>
 <b>
@@ -11,5 +15,3 @@ and the program will run.</i>
 * Space Key - select checker or put down the selected checker.
 * F2 - go back to previous move.
 </b>
-
-<strong>NOTE: This code is rather primitive, no reasonable OOP or elegant logic. This repo is just for sentimental reasons.</strong>
